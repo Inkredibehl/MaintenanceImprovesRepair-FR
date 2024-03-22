@@ -1,0 +1,11 @@
+Sandbox_FR = {
+	Sandbox_MIR = "Maintenance Improves Repair"
+    Sandbox_MIR_SkipItems = "Exclure les objets"
+    Sandbox_MIR_SkipItems_tooltip = "Ne pas ajouter la maintenance en tant que compétence aux recettes de réparation pour ces objets. Utilisez les ID d'objets, pas leurs noms. Séparez-les avec ';' par exemple Axe; HandAxe"
+
+    Sandbox_MIR_SkipSkills = "Exclure les compétences"
+    Sandbox_MIR_SkipSkills_tooltip = "Ne pas ajouter la maintenance en tant que compétence aux recettes de réparation qui ont déjà l'une des compétences spécifiées. Utilisez les noms des compétences. Séparez-les avec ';' par exemple Visée; Mécanique"
+
+    Sandbox_MIR_SkipFixers = "Exclure les matériaux de réparation"
+    Sandbox_MIR_SkipSkills_tooltip = "Ne pas ajouter la maintenance en tant que compétence aux recettes de réparation utilisant l'un de ces matériaux. Utilisez les ID d'objets, pas les noms. Séparez-les avec ';' par exemple DuctTape; Woodglue"
+}
